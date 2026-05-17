@@ -12,9 +12,23 @@ My work focuses on the intersection of highly secure, scalable infrastructure, d
 
 ---
 
-## 📄 Featured Publication
-> **A Unified Framework for Secure Healthcare Data Sharing: Integrating Federated Learning, Blockchain, and Quantum Cryptography** > *An exploration of decentralized, privacy-preserving frameworks designed to securely orchestrate highly sensitive data across distributed nodes.*
+## 📄 Featured Publications & Projects
 
+### 1. Digital Medical Catalog: Harnessing AI for Automated Classification and Analysis of Medical Data
+> **J. B. Ruvunangiza**, C. A. V. Sakuyama | *AI in Medicine, MDPI, 2026*
+> *Addressing the exponential growth of unstructured medical data, clinical notes, and diagnostic reports by leveraging advanced artificial intelligence to automate healthcare knowledge extraction and analysis.*
+
+### 2. A Unified Framework for Secure Healthcare Data Sharing: Integrating Federated Learning, Blockchain, and Quantum Cryptography
+> **J. Ruvunangiza**, C. Valderrama | *Journal of ISSN, 2024*
+> *An exploration of decentralized, privacy-preserving frameworks designed to securely orchestrate highly sensitive healthcare data across distributed nodes using post-quantum security.*
+
+### 3. Bridging the Communication Gap: Utilizing Large Language Models to Detect Emotional Distress and Depression in Adolescent Communication for Parental Support
+> **J. B. Ruvunangiza**, C. A. Valderrama | *Archives of Depression and Anxiety, 2024*
+> *Investigating how large language models can analyze digital communication to detect underlying emotional distress and signs of depression, providing actionable insights for parental support.*
+
+### 4. COVIDFREE App: The User-Enabling Contact Prevention Application: A Review
+> E. M. Mimo, T. McDaniel, **J. B. Ruvunangiza** | *Advances in Science, Technology and Innovation, 2022*
+> *A comprehensive architectural review of user-enabling contact prevention frameworks, analyzing the evolving utility and data mechanics of contact-tracing applications in a post-vaccine ecosystem.*
 ---
 
 ## 🛠️ Technical Toolkit
